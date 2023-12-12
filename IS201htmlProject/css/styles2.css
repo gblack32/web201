@@ -1,0 +1,36 @@
+/* styles2.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333; /* Dark gray font color */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+main, h2 {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff; /* White background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer, h3 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Font color and family styles */
+h1, p, li, a {
+    color: #333; /* Dark gray font color */
+    font-family: 'Arial', sans-serif;
+}
